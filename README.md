@@ -1,3 +1,3 @@
 # The-Journey
 What I Do daily
-Chatgpt ![my chatgpt page](screenshot(72))
+Chatgpt ![my chatgpt page](Screenshot(72).png)
